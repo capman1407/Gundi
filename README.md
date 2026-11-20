@@ -55,10 +55,6 @@ Every HUD element **changes with the theme**: pick a different GUI theme and the
 | Spiral Scout | Flies an endless square spiral with ElytraFly to load a big area and find bases. Saves progress. |
 | Wings | Cosmetic angel wings (only visible to you). |
 | Glow Trail | A soft glowing ribbon that follows behind you (only visible to you). |
-
-### Wings in action
-▶ **[Watch the Wings video](docs/media/wings.mp4)**
-
 ## Building from source
 
 Requires JDK 21 or newer.
