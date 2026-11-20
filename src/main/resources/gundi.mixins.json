@@ -1,0 +1,19 @@
+{
+  "required": true,
+  "package": "com.david.gundi.mixin",
+  "compatibilityLevel": "JAVA_21",
+  "client": [
+    "WidgetScreenMixin",
+    "WidgetScreenAccessor",
+    "NametagMixin",
+    "CrosshairMixin",
+    "ChatHudAccessor",
+    "ChatHudMixin",
+    "ChatScreenInvoker",
+    "ChatScreenMixin",
+    "MessageHandlerMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 1,
+  "id": "gundi",
+  "version": "${version}",
+  "name": "Gundi",
+  "description": "Apple-style HUD, GUI theme, nametags, radar and cosmetics for Meteor Client.",
+  "authors": [
+    "David"
+  ],
+  "icon": "assets/gundi/icon.png",
+  "environment": "client",
+  "entrypoints": {
+    "meteor": [
+      "com.david.gundi.Gundi"
+    ]
+  },
+  "mixins": [
+    "gundi.mixins.json"
+  ],
+  "custom": {
+    "meteor-client:color": "225,25,25",
+    "modmenu": {
+      "parent": {
+        "id": "meteor-client"
+      }
+    }
+  },
+  "depends": {
+    "java": ">=21",
+    "minecraft": ["${mc_version}"],
+    "meteor-client": "*"
+  }
+}
