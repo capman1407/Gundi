@@ -49,6 +49,9 @@ Six full Meteor GUI themes: **Apple, Neon, Terminal, Noir, Aurora and Arcade**. 
 | Wings | Cosmetic angel wings (only visible to you). |
 | Glow Trail | A soft glowing ribbon that follows behind you (only visible to you). |
 
+### Wings in action
+▶ **[Watch the Wings video](docs/media/wings.mp4)**
+
 ## Building from source
 
 Requires JDK 21 or newer.
