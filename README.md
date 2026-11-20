@@ -1,6 +1,8 @@
 # Gundi
 
-An Apple-style addon for [Meteor Client](https://meteorclient.com) on **Minecraft 1.21.11**. It adds clean glass HUD elements, six GUI themes, a themed chat window, nametags, a custom crosshair and cosmetics.
+**For Minecraft 1.21.11** · requires [Meteor Client](https://meteorclient.com)
+
+Gundi adds clean glass HUD elements, six GUI themes, a themed chat window, nametags, a custom crosshair and cosmetics.
 
 ## Download
 
