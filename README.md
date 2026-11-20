@@ -16,6 +16,14 @@ Gundi adds clean glass HUD elements, six GUI themes, a themed chat window, namet
 ### GUI themes
 Six full Meteor GUI themes: **Apple, Neon, Terminal, Noir, Aurora and Arcade**. They include a theme gallery and Spotlight-style search. HUD elements and modules can follow the selected theme automatically.
 
+| Apple | Neon |
+| --- | --- |
+| ![Apple theme](docs/themes/apple.png) | ![Neon theme](docs/themes/neon.png) |
+| **Terminal** | **Noir** |
+| ![Terminal theme](docs/themes/terminal.png) | ![Noir theme](docs/themes/noir.png) |
+| **Aurora** | **Arcade** |
+| ![Aurora theme](docs/themes/aurora.png) | ![Arcade theme](docs/themes/arcade.png) |
+
 ### HUD elements
 | Element | What it does |
 | --- | --- |
